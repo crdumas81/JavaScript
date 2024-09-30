@@ -1,0 +1,2 @@
+var favoriteFood = Pizza;
+
