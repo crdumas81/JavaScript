@@ -86,3 +86,21 @@ console.log(`The temperature is ${Fahrenheit} degrees Fahrenheit.`);
 let Newton = Math.floor(Celsius * (33/100));
 
 console.log(`The temperature is ${Newton} degrees Newton.`);
+
+
+//Ok one more 
+
+var myAge = 42;
+let earlyYears = 2;
+
+earlyYears *= 10.5;
+let laterYears = (myAge - 2) * 4;
+
+//console.log(`My Early Years are: ${earlyYears} and laterYears are ${laterYears}`);
+
+var myAgeInDogYears = earlyYears + laterYears;
+
+let myName = 'CHRIS';
+
+console.log(`My name is ${myName.toLowerCase()}. I am ${myAge} years old in human yers which is ${myAgeInDogYears} in dog years.`);
+
